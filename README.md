@@ -1,2 +1,2 @@
-#Python
-개인 실습 
+# Python  
+개인 실습  
